@@ -10,14 +10,6 @@ It also prepares transcript chunks, creates local embeddings with Hugging Face, 
 
 ---
 
-## Preview
-
-![ClipSutra application preview](screenshots/Preview.jpeg)
-
-*ClipSutra interface showing YouTube video input, active video details, AI-synthesized notes, key topics, and PDF export.*
-
----
-
 ## Features
 
 - **YouTube transcript extraction** — retrieves available captions using `youtube-transcript-api`.
