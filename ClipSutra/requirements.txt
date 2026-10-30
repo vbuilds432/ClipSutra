@@ -1,0 +1,17 @@
+Flask==3.0.3
+python-dotenv==1.0.1
+youtube-transcript-api==1.2.4
+reportlab==4.3.1
+requests>=2.32.5,<3
+
+langchain==0.3.30
+langchain-core==0.3.86
+langchain-community==0.3.31
+langchain-text-splitters==0.3.9
+langchain-google-genai==2.1.9
+langchain-huggingface==0.3.1
+langchain-chroma==0.2.6
+
+chromadb>=1.0.20,<2.0.0
+sentence-transformers>=2.6.0
+transformers>=4.39.0
